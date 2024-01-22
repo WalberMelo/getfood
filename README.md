@@ -4,7 +4,7 @@ Welcome to the repository for GetFood, a beautifully designed landing page that 
 
 ## Live Demo
 
-[View site](hero.png)
+![GetFood Landing Page](hero.png "GetFood Landing Page")
 
 ## Main Features
 
