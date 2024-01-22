@@ -4,6 +4,8 @@ Welcome to the repository for GetFood, a beautifully designed landing page that 
 
 ## Live Demo
 
+[Visit GetFood](https://getfood-wm.netlify.app/)
+
 ![GetFood Landing Page](hero.png "GetFood Landing Page")
 
 ## Main Features
@@ -16,9 +18,9 @@ Welcome to the repository for GetFood, a beautifully designed landing page that 
 
 ## Technology Stack
 
-- **HTML**: Structures the web content.
-- **CSS**: Styles the presentation of the content.
-- **JavaScript**: Enhances the behavior of web pages.
+- [**HTML**](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white): Structures the web content.
+- [**CSS**](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white): Styles the presentation of the content.
+- [ **JavaScript**:](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) Enhances the behavior of web pages.
 
 ## Project Purpose and Goals
 
